@@ -26,5 +26,5 @@ dependencies:
   - pyopenssl==23.1.1
   - tblib==1.7.0
   - tensorflow-macos==2.9.0
-  - tensorflow==2.9.0
+  - tensorflow
 name: mlflow-env
