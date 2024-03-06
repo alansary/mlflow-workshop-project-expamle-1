@@ -1,5 +1,5 @@
 channels:
-- defaults
+- apple
 - conda-forge
 dependencies:
 - python=3.9.13
